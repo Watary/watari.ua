@@ -1,0 +1,231 @@
+BODY{
+	background-image: url(image/body_fon.png);
+}
+A:link{
+	color: #ffdabe;
+	font-size: 30px;
+	text-decoration: none;
+}
+A:active{
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: italic;
+}
+A:visited{
+	color: #ffdabe;
+	font-size: 30px;
+	text-decoration: none;
+}
+A:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: #ffdabe;
+	font-size: 30px;
+}
+HR{
+	color: #ffdabe;
+	background-color: #c84e3d;
+	border-radius: 5px;
+	border: 3px double #ffdabe;
+}
+
+.main_column{
+	width: 1200px;
+	background-color: #20070a;
+	margin: 0px auto;
+}
+.block_logo{
+	width: 1200px;
+	height: 200px;
+	background-image: url(image/logo.png);
+}
+.block_top_menu{
+	height: 50px;
+	background-image: url(image/top_menu_fon.png);
+}
+.separator{
+	height: 10px;
+}
+.column_left_context{
+	padding: 0;
+	background-color: #783025;
+	width: 100%;
+}
+.column_left{
+	width: 282px;
+	text-align: left;
+	color: #ffdabe;
+	padding: 5px;
+	font-size: 30px;
+}
+.column_left_block{
+	background-color: #ad3626;
+	padding: 5px;
+	border-radius: 10px;
+	font-family: "Monotype Corsiva";
+	font-size: 30px;
+}
+.column_context{
+	width: 892px;
+	padding: 5px;
+	text-align: center;
+	color: #ffdabe;
+}
+.column_create_news{
+	padding: 5px;
+	text-align: center;
+	color: #ffdabe;
+}
+.create_news_table{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	padding: 5px;
+	text-align: left;
+	color: #ffdabe;
+	border-radius: 5px;
+	width: 1190px;
+}
+.bottom{
+	height: 100px;
+	background-image: url(image/bottom_fon.png);
+}
+.title_logo{
+	left: 20px;
+	top: 15px;
+	position: relative;
+	width: 330px;
+}
+.clock{
+	left: 20px;
+	top: 40px;
+	position: relative;
+	font-size: 100px;
+	color: #742c19;
+}
+.column_registration_context{
+	border-radius: 3px;
+	color: #ffdabe;
+	background-color: #a62c1b;
+}
+.registration_table{
+	margin: 20px;
+	color: #ffdabe;
+	font-size: 25px;
+	background-color: #a62c1b;
+	font-family: "Monotype Corsiva";
+}
+.button_registration{
+	color: #ffdabe;
+	font-size: 25px;
+	font-family: "Monotype Corsiva";
+	background-color: #a62c1b;
+	border: 0px;
+}
+.button{
+	color: #ffdabe;
+	font-size: 25px;
+	font-family: "Monotype Corsiva";
+	background-color: #c84e3d;
+	border-radius: 5px;
+	border: 3px double #ffdabe;
+}
+.column_personal_content{
+	width: 892px;
+	padding: 5px;
+	text-align: center;
+	color: #ffdabe;
+	border-radius: 5px;
+}
+.block_personal_content{
+	background-color: #b73d2c;
+	padding: 5px;
+	border-radius: 10px;
+	font-family: "Monotype Corsiva";
+	font-size: 15px;
+}
+.table_personal_content{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	text-align: left;
+	color: #ffdabe;
+	width: 870px;
+}
+.table_personal_edit{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	text-align: left;
+	color: #ffdabe;right
+	width: 870px;
+}
+.UserOnOff{
+	font-family: "Monotype Corsiva";
+	font-size: 20px;
+	text-align: left;
+	color: #ffdabe;
+	padding: 5px;
+}
+.crate_news{
+	color: #ffdabe;
+	text-align: center;
+	font-size: 25px;
+	font-family: "Monotype Corsiva";
+	background-color: #a62c1b;
+	border: 0px;
+}
+.block_news{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	padding: 5px;
+	text-align: left;
+	color: #ffdabe;
+	border-radius: 5px;
+}
+.column_news{
+	font-family: "Monotype Corsiva";
+	font-size: 30px;
+}
+.separator_news{
+	height: 5px;
+}
+.separator_message{
+	height: 5px;
+}
+.page_news{
+	color: #ffdabe;
+	text-align: center;
+	font-size: 25px;
+	font-family: "Monotype Corsiva";
+	background-color: #a62c1b;
+	border: 0px;
+}
+.table_users{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	padding: 5px;
+	text-align: left;
+	color: #ffdabe;
+	border-radius: 30px;
+	width: 1190px;
+}
+.table_user_content{
+	background-color: #b73d2c;
+	font-family: "Monotype Corsiva";
+	font-size: 25px;
+	text-align: left;
+	color: #ffdabe;
+	width: 100%;
+}
+.input_message_table{
+	text-align: left;
+	background-color: #b73d2c;
+	border-radius: 5px;
+	width: 890px;
+	font-family: "Monotype Corsiva";
+	font-size: 20px;
+	color: #ffdabe;
+}
